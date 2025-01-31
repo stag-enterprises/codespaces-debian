@@ -1,3 +1,4 @@
 {
+  "name": "codespace-debian",
   "image": "mcr.microsoft.com/devcontainers/base:debian"
 }
